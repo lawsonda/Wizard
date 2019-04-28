@@ -1,0 +1,5 @@
+name="SlowMotion Wizard"
+url="https://www.dropbox.com/s/k34li9inhpc6sc3/SlowMotion%201.0.0.zip?dl=1"
+img="https://raw.githubusercontent.com/lawsonda/Wizard/master/icon.png"
+fanart="https://raw.githubusercontent.com/lawsonda/Wizard/master/fanart.jpg"
+description="Test Run of Dave's Wizard"
