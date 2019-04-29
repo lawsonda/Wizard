@@ -13,7 +13,7 @@ Instructions for adding this repo:
     <li>In Addons, install an addon from zip.  When it asks for the location, select "Slow Motion Repo", and install
     <li>Go back to Addons install, but this time, select "Install from repository"</li>
     <li>Select the "Slow Motion Repo"</li>
-    <li>It will install/li>
+    <li>It will install</li>
   </ul>
 </p>
 
